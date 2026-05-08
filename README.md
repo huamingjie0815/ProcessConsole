@@ -95,5 +95,4 @@ The release workflow can also be started manually from the GitHub Actions tab.
 
 ## License
 
-MIT
-
+Apache-2.0
