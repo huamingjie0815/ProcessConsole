@@ -217,7 +217,7 @@ export function App() {
             role="tab"
             aria-selected={activeTab === "other"}
           >
-            <span>其他</span>
+            <span>Others</span>
             <span className="tab-count">{tabCounts.other}</span>
           </button>
         </div>
