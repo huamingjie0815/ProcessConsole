@@ -87,8 +87,8 @@ pnpm tauri build --bundles dmg
 推送版本 tag 即可触发 release：
 
 ```bash
-git tag v0.1.0
-git push origin v0.1.0
+git tag v0.1.1
+git push origin v0.1.1
 ```
 
 也可以在 GitHub Actions 页面手动触发 release workflow。

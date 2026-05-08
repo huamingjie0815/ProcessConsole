@@ -87,8 +87,8 @@ GitHub Actions builds macOS DMG artifacts and publishes them to GitHub Releases.
 Create a release by pushing a version tag:
 
 ```bash
-git tag v0.1.0
-git push origin v0.1.0
+git tag v0.1.1
+git push origin v0.1.1
 ```
 
 The release workflow can also be started manually from the GitHub Actions tab.
